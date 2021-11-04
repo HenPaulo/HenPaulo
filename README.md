@@ -8,8 +8,7 @@
   
   <img align="center" alt="henpaulo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
-  <br>
-  <a href=https://www.linkedin.com/in/paulo-henrique-412715213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 
 
